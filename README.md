@@ -10,7 +10,7 @@ This project can be used in parking area to keep track of every vehicle and make
 ## Dependencies
 - OpenCV
 - Pandas
-- [Tesseract 4](https://github.com/tesseract-ocr/tesseract/wiki)
+
 
 ## Usage
 
