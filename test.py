@@ -3,6 +3,7 @@ import cv2
 import  imutils
 import sys
 import pytesseract
+import opencv
 import pandas as pd
 import time
 
